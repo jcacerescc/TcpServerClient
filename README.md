@@ -1,7 +1,7 @@
 # Servidor TCP
 
 
-1.Para ejecutar, debe tener en la misma carpeta del servidor los archivos a compartir, el de 100mb y el de 250mb, especificamente estos archivos deben estar nombrados como  '100mb' y '250mb'.
+1.Para ejecutar, debe tener en la misma carpeta del servidor los archivos a compartir, el de 100mb y el de 250mb, especificamente estos archivos deben estar nombrados como  '100mb' y '250mb'. Para generar archivos de la cantidad especificada y que el servidor pueda correr puede hacer uso de la siguiente web : https://generatefile.com/
 
 2.Asegurese de que el host definido en el archivo Server.py y Clients.py sea la ip de la maquina en la que se va a ejecuar el servidor.
 
